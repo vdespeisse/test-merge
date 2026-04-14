@@ -1,2 +1,2 @@
-Modified by pr1 AAA
-Modified by pr2
+Modified by pr1 AAA BBB
+Modified by pr2 AAA
